@@ -31,7 +31,6 @@
         </ul>
         <li>Continue until  2b<sup>2</sup> X<sub>k</sub> >= 2 a<sup>2</sup> y<sub>k</sub></li>
     </ul>
-
     <h2>Region 2:</h2>
     <ul>
         <li>Initial point: (Ending point of Region 1)</li>
